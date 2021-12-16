@@ -5,6 +5,9 @@
 
 최종 수정일: 2021-12-14
 + -2021.12.14: 폴더명 변경(EX00 => exploration_00)
+
+
++ -2021.12.16: 링크 연결
 ***
 
 <br>
@@ -12,7 +15,7 @@
 ***
 |순번|Folder Name|Title|비고|
 |:--------:|:--------:|:--------:|:--------:|
-|1|<a href="https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_01/EX01_v5_1.ipynb" target="_blank">exploration_01</a>|1. 인공지능과 가위바위보 하기|-|
+|1|[exploration_01](https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_01/EX01_v5_1.ipynb)|1. 인공지능과 가위바위보 하기|-|
 |2|[exploration_02](https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_02/EX02_v2_1.ipynb)|2. Iris의 세 가지 품종, 분류해볼 수 있겠어요?|-|
 |3|[exploration_03](https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_03/EX03_v2_1.ipynb)|3. 카메라 스티커앱 만들기 첫걸음|-|
 |4|[exploration_04](https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_04/EX04_v3_2.ipynb)|4. 작사가 인공지능 만들기|-|
