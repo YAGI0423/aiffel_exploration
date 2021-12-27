@@ -33,6 +33,6 @@
 |16|[exploration_16](https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_16/EX16_v4_1.ipynb)|16. 흐린 사진을 선명하게|-|
 |17|[exploration_17](https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_17/EX17_v4_1.ipynb)|17. 인간보다 퀴즈를 잘푸는 인공지능|-|
 |18|[exploration_18](https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_18/EX18_v2_1.ipynb)|18. 문자를 읽을 수 있는 딥러닝|-|
-|19|[exploration_19](https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_19/EX19_v2_1.ipynb)|19. 난 스케치를 할 테니 너는 채색을 하거라|-|
+|19|[exploration_19](https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_19/EX19_v4_1.ipynb)|19. 난 스케치를 할 테니 너는 채색을 하거라|-|
 
 ***
